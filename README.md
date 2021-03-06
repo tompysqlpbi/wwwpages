@@ -1,4 +1,4 @@
-# wwwpages
+# WWW pages
 Interesting www pages or topics
 
 
